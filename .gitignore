@@ -78,7 +78,11 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+<<<<<<< HEAD
 # IPython
+=======
+# Python
+>>>>>>> 0d22334 (initial seed of the app)
 profile_default/
 ipython_config.py
 
@@ -121,7 +125,11 @@ celerybeat.pid
 
 # Environments
 .env
+<<<<<<< HEAD
 .venv
+=======
+#.venv
+>>>>>>> 0d22334 (initial seed of the app)
 env/
 venv/
 ENV/
